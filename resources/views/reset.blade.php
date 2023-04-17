@@ -1,1 +1,1 @@
-<h1>hi umARI{{$token}}</h1>
+<h1>hi her is token={{$token}}</h1>
